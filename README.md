@@ -46,3 +46,9 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+
+### Project submission:
+GitHub Url: https://github.com/rostig/image-filter-starter-code
+BeanStalk Url: http://image-filter-starter-code-dev2222222222222222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i.pinimg.com/736x/c9/8f/e1/c98fe17dc7de72bb29c34a0c79ef5762.jpg
